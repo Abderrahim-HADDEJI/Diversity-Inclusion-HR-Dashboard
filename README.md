@@ -16,4 +16,14 @@ The goal of this project is to empower HR professionals and decision-makers with
 
 ![Screenshot 2025-05-02 200157](https://github.com/user-attachments/assets/35bb949c-0496-4a31-91ab-6a48003137ff)
 ![Screenshot 2025-05-02 200247](https://github.com/user-attachments/assets/b2b4c30b-65d2-469e-bb8b-04306f201056)
+
+
+
+## 📖 Related Article
+
+This project is featured in the Medium article:  
+**“Using HR Dashboards to Promote Gender Balance and Inclusion”**
+
+🔗 [Read the article on Medium](https://medium.com/@haddeji.abderrahim/using-hr-dashboards-to-promote-gender-balance-and-inclusion-in-the-workplace-a-data-driven-be9990b59814)
+
 ![Screenshot 2025-05-02 200321](https://github.com/user-attachments/assets/78dd8cc8-a598-4d29-a859-7c5c78babc10)
